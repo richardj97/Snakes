@@ -1,0 +1,12 @@
+c:\users\richjacobs\documents\visual studio 2015\Projects\Snakes\Snakes\bin\Debug\Snakes.exe.config
+c:\users\richjacobs\documents\visual studio 2015\Projects\Snakes\Snakes\bin\Debug\Snakes.exe
+c:\users\richjacobs\documents\visual studio 2015\Projects\Snakes\Snakes\bin\Debug\Snakes.pdb
+c:\users\richjacobs\documents\visual studio 2015\Projects\Snakes\Snakes\obj\Debug\Snakes.Properties.Resources.resources
+c:\users\richjacobs\documents\visual studio 2015\Projects\Snakes\Snakes\obj\Debug\Snakes.csproj.GenerateResource.Cache
+c:\users\richjacobs\documents\visual studio 2015\Projects\Snakes\Snakes\obj\Debug\Snakes.exe
+c:\users\richjacobs\documents\visual studio 2015\Projects\Snakes\Snakes\obj\Debug\Snakes.pdb
+c:\users\richjacobs\documents\visual studio 2015\Projects\Snakes\Snakes\obj\Debug\Snakes.SettingsForm.resources
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Snakes\Snakes\obj\Debug\Snakes.History.resources
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Snakes\Snakes\obj\Debug\Snakes.Game.resources
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Snakes\Snakes\obj\Debug\Snakes.csprojAssemblyReference.cache
+C:\Users\RichJacobs\Documents\Visual Studio 2015\Projects\Snakes\Snakes\obj\Debug\Snakes.csproj.CoreCompileInputs.cache
